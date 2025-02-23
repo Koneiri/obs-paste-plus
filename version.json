@@ -1,1 +1,12 @@
+{
+  "latest_version": "1.0.0",
+  "versions": {
+    "1.0.0": {
+      "release_date": "2025-02-23",
+      "changelog": [
+        "Initial release."
+      ]
+    }
+  }
+}
 
